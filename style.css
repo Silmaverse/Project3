@@ -1,0 +1,58 @@
+body{
+  background-color: lavender;
+  font-family: Arial, Helvetica, sans-serif;
+  padding:30px;
+  text-align: center;
+}
+
+h1{
+   color: darkblue; 
+}
+
+h2{
+   color: purple;
+   font-size: 30px; 
+}
+h3{
+   font-size: 30px; 
+}
+
+p{
+  font-size: 20px;
+  color: darkblue;  
+}
+
+button{
+   color: white;
+   font-size: 18px;
+   padding: 12px;
+   margin: 5px;
+   border: none;
+   border-radius: 10px; 
+   cursor: pointer;
+}
+
+#happy{
+    background-color: green;
+}
+#calm{
+   background-color: blue; 
+}
+
+#excited{
+   background-color: red; 
+}
+
+#reset{
+  background-color: plum;  
+}
+
+.moodcolor{
+    margin:  auto;
+    margin-bottom: 20px;
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    border-radius: 12px;
+    padding-top:16px;
+}
